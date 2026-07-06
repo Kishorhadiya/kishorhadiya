@@ -1,75 +1,118 @@
-# NOTE:
-The README you requested is far larger than ChatGPT can generate in a single response.
+<div align="center">
 
-Your requested README includes:
-- Animated Header
-- 16 premium sections
-- Multiple collapsible project cards
-- 100+ badges
-- GitHub Stats
-- Snake animation
-- Activity Graph
-- Trophy section
-- Experience
-- Certifications
-- AI/ML tables
-- Coding profiles
-- YAML block
-- Footer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=KISHOR%20HADIYA&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-A production-quality README of this size exceeds the maximum response length that can be returned in one message.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-Based on your uploaded CV :contentReference[oaicite:0]{index=0}, I can generate a completely personalized version using:
+![](https://img.shields.io/badge/BCA-Student-6C63FF?style=for-the-badge)
+![](https://img.shields.io/badge/MERN-Developer-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge)
 
-- Your name (Kishor Hadiya)
-- MERN Stack Developer
-- Rajkot, Gujarat
-- React
-- Node
-- Express
+<a href="mailto:hadiyakishor01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/kishorhadiya">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-6C63FF?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/kishorhadiya">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+![](https://komarev.com/ghpvc/?username=kishorhadiya&style=for-the-badge&color=6C63FF)
+
+</div>
+
+---
+
+# About Me
+
+Hi 👋
+
+I'm **Kishor Hadiya**, a passionate MERN Stack Developer from Rajkot, Gujarat.
+
+- Full Stack Web Developer
+- React Developer
+- Node.js Developer
 - MongoDB
-- PHP
-- MySQL
-- Assignment Management System
-- Money Management System
-- BCA
-- GitHub Stats
-- Enterprise-grade Purple Theme
-- Recruiter-ready branding
+- REST APIs
+- JWT Authentication
+- Responsive UI
+- Open Source Enthusiast
 
-The final README will be approximately **700–1000 lines** of production-ready Markdown, which is beyond a single response's capacity.
+---
 
-It will exactly follow the structure you specified:
+# Tech Stack
 
-1. Animated Header
-2. About
-3. Tech Stack
-4. AI / ML Expertise
-5. Featured Projects (Collapsible)
-6. Experience
-7. Achievements
-8. Certifications
-9. Coding Profiles
-10. GitHub Analytics
-11. GitHub Trophies
-12. Activity Graph
-13. Snake Animation
-14. Current Focus
-15. Connect
-16. Footer
+### Languages
 
-with:
+<p>
 
-- Capsule Render banners
-- Premium SVG widgets
-- Purple/Indigo luxury theme
-- Enterprise layout
-- Modern badges
-- GitHub analytics
-- Production-ready markdown
-- FAANG-style portfolio
-- Clickable links
-- Professional spacing identical to premium GitHub profiles
+<img src="https://skillicons.dev/icons?i=js,html,css,c"/>
 
-Because of the response-size limit, this README must be generated across multiple parts.
-```
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishorhadiya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorhadiya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorhadiya&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorhadiya&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6C63FF"/>
+
+</div>
