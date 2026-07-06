@@ -91,23 +91,6 @@ I'm **Kishor Hadiya**, a passionate MERN Stack Developer from Rajkot, Gujarat.
 
 ---
 
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorhadiya&theme=tokyonight"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorhadiya&theme=tokyo-night"/>
-
-</p>
 
 ---
 
